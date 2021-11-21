@@ -1,4 +1,4 @@
-# bBckend with Node.js
+# Backend with Node.js
 
 Este repositório śerve para aprender a como usar JavaScript no backend usando Node.js
 
